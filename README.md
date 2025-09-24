@@ -9,10 +9,10 @@ O objetivo foi documentar os componentes de um kit de robótica, exercitando con
 ## Integrantes
 
 - Henrique da Silva Meyer
+- João Eduardo Capelari 
 - Jorge Luiz Horn Júnior  
 - Lorenzo Foralosso Kochemborger
 - Matheus Henrique Pompeu 
 - Ricardo Mota Ferrazza
 
 ---
-
